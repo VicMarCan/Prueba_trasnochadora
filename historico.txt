@@ -1,0 +1,400 @@
+    1  pwd
+    2  cd /
+    3  pwd
+    4  cd DAM
+    5  cd C/
+    6  dir
+    7  cd DAM
+    8  ls
+    9  ls -l
+   10  cd 0102_ED/
+   11  git config --global user.name "VICTOR MARIN"
+   12  git config --global user.email "victorctmc@gmail.com"
+   13  git config --list
+   14  pwd
+   15  ll
+   16  clear
+   17  mkdir mi-primer-repo
+   18  ll
+   19  git config --global user.email "marincanovas.victor233@comunidadunir.net"
+   20  pwd
+   21  git config --list
+   22  git config --global user.email "victorctmc@gmail.com"
+   23  git config --list
+   24  cd mi-primer-repo/
+   25  ll
+   26  pwd
+   27  git init
+   28  clear
+   29  git status
+   30  notepad README.md
+   31  git status
+   32  pwd
+   33  ll
+   34  cd C/
+   35  cd C /
+   36  pwd
+   37  git config --list
+   38  cd C/
+   39  cd /c
+   40  cd Dam/
+   41  cd 0102_ED/
+   42  ssh-keygen -t ed25519 -c "victorctmc@gmail.com"
+   43  ssh-keygen -t ed25519 -C "victorctmc@gmail.com"
+   44  git config user.email "marincanovas.victor233@comunidadunir.net"
+   45  git --config user.email "marincanovas.victor233@comunidadunir.net"
+   46  git config --list
+   47  crea.carpetas.bat
+   48  pwd
+   49  cd /
+   50  pwd
+   51  pwd
+   52  cd /
+   53  pwd
+   54  cd git config --global user.name "VICTOR MARIN"
+   55  cd C/
+   56  cd DAM
+   57  ls
+   58  ls -l
+   59  cd 0102_ED/
+   60  git config --global user.name "VICTOR MARIN"
+   61  git config --global user.email "marincanovas.victor233@comunidadunir.net"
+   62  git config --list
+   63  pwd
+   64  mkdir mi-primer-repo
+   65  pwd
+   66  ll
+   67  cd mi-primer-repo/
+   68  ll
+   69  pwd
+   70  git init
+   71  git status
+   72  notepad README.md
+   73  git status
+   74  cd /c
+   75  ll
+   76  cd DAM/
+   77  ll
+   78  cd 0102_ED/
+   79  ll
+   80  ssh-keygen -t ed25519 -C "marincanovas.victor233@comunidadunir.net"
+   81  eval $(ssh-agent -s)
+   82  ssh-add ~/.ssh/id_ed25519
+   83  cat ~/.ssh/id_ed25519.pub
+   84  code ~/.shh/id_ed25519
+   85  code ssh-add ~/.ssh/id_ed25519
+   86  code ssh-add ~/.ssh/id_ed25519.pub
+   87  code ssh-add ~/.ssh/id_ed25519.pub
+   88  cd
+   89  pwd
+   90  cd c/
+   91  cd /C
+   92  pwd
+   93  cd DAM
+   94  cd 0102_ED/
+   95  mkdir 3r-repo
+   96  pwd
+   97  git remote add origin git@github.com:VicMarCan/mi-segundo-repo.git
+   98  git remote add origin [200~git@github.com:VicMarCan/mi-segundo-repo.git
+   99  git remote add origin git@github.com:VicMarCan/mi-segundo-repo.git
+  100  cd mi-primer-repo/
+  101  cd mi-segundo-repo
+  102  pwd
+  103  cd 010
+  104  cd 0102_ED
+  105  cd DAM
+  106  cd DAM/
+  107  clear
+  108  pwd
+  109  cd DAM
+  110  ll
+  111  cd C/
+  112  pwd
+  113  cd DAM
+  114  cd /c
+  115  pwd
+  116  cd DAM
+  117  cd 0102_ED
+  118  pwd
+  119  pppwdpwdpwdpwdpwd
+  120  pwd
+  121  mkdir mi-segundo-repo
+  122  pwd
+  123  cd mi-segundo-repo/
+  124  pwd
+  125  git init
+  126  git remote add origin git@github.com:VicMarCan/mi-segundo-repo.git
+  127  git remote -v
+  128  ll
+  129  git pull
+  130  cd/
+  131  dir
+  132  cd /
+  133  cd c
+  134  dir
+  135  ls
+  136  ls
+  137  ls-l
+  138  ls -l
+  139  ls -a
+  140  ll
+  141  ls -la
+  142  alias
+  143  pwd
+  144  cd
+  145  pwd
+  146  cd /
+  147  cd /
+  148  cd
+  149  ll
+  150  pwd
+  151  cd
+  152  pwd
+  153  cd /
+  154  cd
+  155  cd /
+  156  mkdir proyectos
+  157  cd
+  158  mkdir proyectos
+  159  ll
+  160  cd proyectos
+  161  ll
+  162  ll -a
+  163  ll
+  164  mkdir html css javascript
+  165  ll
+  166  pwd
+  167  cd html
+  168  touch index.html
+  169  ll
+  170  time
+  171  date
+  172  ll
+  173  touch index.html
+  174  ll
+  175  ll
+  176  cd css
+  177  cd
+  178  cd /css
+  179  pwd
+  180  cd /proyectos
+  181  cd /c/Users/proyectos/css
+  182  cd /proyectos/html
+  183  cd /Users\Víctor
+  184  l
+  185  ll
+  186  cd proyectos/
+  187  cd /html
+  188  cd html/
+  189  cd
+  190  cd proyectos/
+  191  cd css/
+  192  touch stryles.css
+  193  ll
+  194  cd ../javascript/
+  195  touch app.js
+  196  ll
+  197  mv app.js main.js
+  198  ll
+  199  cs ../css/
+  200  cd ../css
+  201  rm styles.css
+  202  ll
+  203  rm stryles.css
+  204  ll
+  205  cs ..
+  206  dir
+  207  ll
+  208  cd ..
+  209  dir
+  210  ll
+  211  rm -r javascript
+  212  ll
+  213  cd html
+  214  cat index.html
+  215  echo "<h1>Hola Mundo<h1>" > index.html
+  216  ll
+  217  cat index.html
+  218  ll
+  219  cd c/
+  220  cd /c
+  221  ll
+  222  pwd
+  223  cd ..
+  224  ll
+  225  cls
+  226  ll
+  227  git status
+  228  cd /c
+  229  ll
+  230  cd DAM/
+  231  ll
+  232  cd 0102_ED/
+  233  ll
+  234  rm -r mi-segundo-repo/
+  235  rm --help
+  236  ll
+  237  rm -r mi-primer-repo/
+  238  ll
+  239  ll
+  240  cat ~/
+  241  cd ~/.ssh/
+  242  ll
+  243  explorer .
+  244  explorer .
+  245  clone git@github.com:VicMarCan/repositorio_pruebas_clase_eedd.git
+  246  git clone git@github.com:VicMarCan/repositorio_pruebas_clase_eedd.git
+  247  explorer .
+  248  cd /C/DAM/0102_ED/
+  249  git clone git@github.com:VicMarCan/repositorio_pruebas_clase_eedd.git
+  250  cd repositorio_pruebas_clase_eedd/
+  251  git status
+  252  cd /C/DAM/proyectos
+  253  cd /C/DAM/0102_ED/
+  254  ssh-keygen -t ed25519 -C "marincanovas.victor233@comunidadunir.net"
+  255  eval $(ssh-agent -s)
+  256  pwd
+  257  git clone git@github.com:VicMarCan/tarea_repaso_nov24.git
+  258  ssh-keygen -t ed25519 -C "marincanovas.victor233@comunidadunir.net"
+  259  ssh-keygen -t ed25519 -C "marincanovas.victor233@comunidadunir.net"
+  260  eval $(ssh-agent -s)
+  261  ssh-add ~/.ssh/id_ed25519
+  262  cat ~/.ssh/id_ed25519.pub
+  263  git init
+  264  git remote add origin git@github.com:VicMarCan/tarea_repaso_nov24.gi
+  265  git remote -v
+  266  git add .
+  267  git commit -m "Primer Commit"
+  268  git push -u origin main
+  269  git push -u origin master
+  270  git push -u origin master
+  271  git commit -m "Primer Commit"
+  272  git add .
+  273  ssh-add -l
+  274  ls -la .ssh
+  275  cd
+  276  ls -la .ssh
+  277  eval $(ssh-agent -s)
+  278  ssh-add ~/.ssh/id_ed25519
+  279  ssh -add -l
+  280  cd /C/DAM/
+  281  ll
+  282  cd 0102_ed
+  283  notepad ~/.ssh/id_ed25519.pub
+  284  ssh 
+  285  ssh -i
+  286  ssh -T -ai ~/.ssh/id_ed25519
+  287  cd /C/DAM
+  288  ll
+  289  cd 0102_ED/
+  290  cd ..
+  291  cd 0102_ed
+  292  pwd
+  293  git remote -v
+  294  git add .
+  295  git commit -m "Primer commit"
+  296  git checkout
+  297  ll
+  298  pwd
+  299  cd tarea_repaso_nov24/
+  300  git add .
+  301  git commit -m "Primer commit"
+  302  git push -u origin main
+  303  git clone git@github.com:VicMarCan/tarea_repaso_nov24.git
+  304  cd tarea_repaso_nov24/
+  305  git commit -m "Hola buenas tardes"
+  306  cd ..
+  307  git commit -m "Probando 2"
+  308  git add
+  309  git add .
+  310  git commit -m "Por favor funciona"
+  311  git push -u origin main
+  312  git pull origin main
+  313  git add .
+  314  git commit -m "Puede salir bien? Gracias."
+  315  explorer .
+  316  ssh-keygen -t ed25519 -C "marincanovas.victor233@comunidadunir.net"
+  317  eval $(ssh-agent -s)
+  318  ssh-add ~/.ssh/id_ed25519
+  319  cat ~/.ssh/id_ed25519.pub
+  320  git init
+  321  ll
+  322  ll
+  323  cd
+  324  cd /C/DAM/0102_ED/
+  325  ll
+  326  mkdir
+  327  mkdir --help
+  328  mkdir repositorio_prueba_nocturna
+  329  ll
+  330  cd repositorio_prueba_nocturna/
+  331  git init
+  332  git remote add origin git@github.com:VicMarCan/prueba_trasnochadora.gi
+  333  git remote -v
+  334  git add . 
+  335  git commit -m "Probando por 384728374 vez"
+  336  ll
+  337  git checkout
+  338  git init
+  339  git remote add origin git@github.com/VicMarCan/prueba_trasnochadora.gi
+  340  git remote -v
+  341  git add .
+  342  ll
+  343  git commit -m "perico"
+  344  git add
+  345  git add .
+  346  git push -u origin main
+  347  git push -u origin master
+  348  gitignore
+  349  gitignore local_config/ .tmp .env
+  350  cd
+  351  cd /C/DAM/0102_ed
+  352  ll
+  353  git clone git@github.com:VicMarCan/Prueba_trasnochadora.git
+  354  ssh-add -l
+  355  ssh-add -d ~.ssh/id_ed25519
+  356  ssh-add -d ~/.ssh/id_ed25519
+  357  ssh-add -l
+  358  ssh-add ~/.ssh/id_ed25519
+  359  ssh-add -l
+  360  git clone git@github.com:VicMarCan/Prueba_trasnochadora.git
+  361  ll
+  362  explorer .
+  363  cd Prueba_trasnochadora/
+  364  code .
+  365  touch index.html
+  366  touch configuracion_local.sh
+  367  mkdir js
+  368  mkdir multimedia
+  369  touch css/style.css
+  370  touch c
+  371  delete c
+  372  touch css/style.css
+  373  touch css
+  374  touch img/logo1.psd
+  375  mkdir img
+  376  touch img/logo1.psd
+  377  touch img/logo2.xcf
+  378  mk dir css
+  379  mkdir css
+  380  touch css/style.css
+  381  git status
+  382  touch .gitignore
+  383  git status
+  384  ll -a
+  385  ll
+  386  git status
+  387  git status
+  388  git add -A
+  389  git status
+  390  git commit -m "ADD: varios ficheros"
+  391  git status
+  392  git push origin main
+  393  git status
+  394  git pull
+  395  git status
+  396  code .
+  397  git log
+  398  git log --oneline
+  399  git log --graph
+  400  history >> historico.txt
